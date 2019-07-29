@@ -6,4 +6,5 @@
 REPORT ZTESTREPORT.
 
 WRITE:
-'Version 3'.
+'Version 3',
+'Version 4'.
