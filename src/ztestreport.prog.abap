@@ -8,5 +8,4 @@ REPORT ZTESTREPORT.
 WRITE:
 'Version 2.4',
 'Version 2.4',
-'Version 2.6',
-'Version 2.7'.
+'Version 2.6'.
